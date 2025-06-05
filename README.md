@@ -1,13 +1,6 @@
 # foundation-sdk
 To create a sdk easiler!
 
-[![Latest Stable Version](https://poser.pugx.org/hanson/foundation-sdk/v/stable)](https://packagist.org/packages/hanson/foundation-sdk)
-[![Total Downloads](https://poser.pugx.org/hanson/foundation-sdk/downloads)](https://packagist.org/packages/hanson/foundation-sdk)
-[![Latest Unstable Version](https://poser.pugx.org/hanson/foundation-sdk/v/unstable)](https://packagist.org/packages/hanson/foundation-sdk)
-[![License](https://poser.pugx.org/hanson/foundation-sdk/license)](https://packagist.org/packages/hanson/foundation-sdk)
-[![Monthly Downloads](https://poser.pugx.org/hanson/foundation-sdk/d/monthly)](https://packagist.org/packages/hanson/foundation-sdk)
-[![Daily Downloads](https://poser.pugx.org/hanson/foundation-sdk/d/daily)](https://packagist.org/packages/hanson/foundation-sdk)
-
 ## What's inside Foundation-sdk
 
 - [pimple](https://github.com/silexphp/Pimple) (Container)
@@ -16,7 +9,7 @@ To create a sdk easiler!
 
 ## 安装要求
 
-php 7 以上（需要PHP5的可移步到其他人维护的仓库 https://github.com/CodeNauhc/foundation-sdk/tree/php5）
+php 8.2 以上
 
 ## 中文实例教程
 
